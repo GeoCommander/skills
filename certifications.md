@@ -19,14 +19,14 @@ Below is a list of all my certificates in table format. Click each url to see ce
 
 | Skill Category                    | Skills                                                                             |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
-| Databases and Data Warehouses     | [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server), [Oracle Database](https://www.oracle.com/database), [Redshift](https://aws.amazon.com/redshift/) |
+| Databases and Data Warehouses     | Microsoft SQL Server, Oracle Database, [MySQL](https://www.coursera.org/account/accomplishments/professional-cert/LTM3KJEMDKG6) Redshift |
 | Relational Database Management    | T-SQL, PL/SQL                                                                      |
-| Data Visualization                | [Microsoft Power BI](https://powerbi.microsoft.com/)                               |
+| Data Visualization                | [Microsoft Power BI](https://www.credly.com/badges/79cb4ed6-dd70-41d5-ba2b-bf46fb07317c?source=linked_in_profile)                                                                                                 |
 | Programming Language              | Python (Pandas, Selenium, PytoExe)                                                 |
-| Version Control                   | Git, [GitHub](https://github.com/)                                                  |
+| Version Control                   | Git, GitHub                                                                         |
 | Operating System (OS)             | Linux (Fedora, Ubuntu), Windows                                                    |
-| Scripting and Terminal Usage       | Bash Shell scripting                                                               |
-| Workflow Orchestration            | Airflow, SSIS, [AWS Glue](https://aws.amazon.com/glue/), [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) |
+| Scripting and Terminal Usage      | Bash Shell scripting                                                               |
+| Workflow Orchestration            | [Airflow](https://www.coursera.org/account/accomplishments/professional-cert/LTM3KJEMDKG6), SSIS, AWS Glue, Azure Data Factory                                                                                                                    |
 | Cloud Services                    | AWS (S3, IAM, EC2, RDS)                                                            |
 
 </div>
