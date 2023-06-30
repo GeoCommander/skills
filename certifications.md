@@ -13,7 +13,7 @@ Cloud Services:                                 AWS (S3, IAM, EC2, RDS)
 
 Below is a list of all my certificates in table format. Click each url to see certificates for each category
 
-<div align="center">
+<div align="left">
 
 ## SKILLS
 
