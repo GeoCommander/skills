@@ -1,4 +1,4 @@
-SKILLS
+<!-- SKILLS
 
 Databases and Data Warehouses:                  Microsoft SQL Server, Oracle Database, Redshift
 Relational Database Management:                 T-SQL, PL/SQL,
@@ -9,7 +9,11 @@ Operating System (OS):                          Linux (Fedora, Ubuntu), Windows
 Scripting and Terminal Usage:                   Bash Shell scripting
 Workflow Orchestration:                         Airflow, SSIS, AWS Glue, Azure Data Factory
 Cloud Services:                                 AWS (S3, IAM, EC2, RDS)
+ -->
 
+Below is a list of all my certificates in table format. Click each url to see certificates for each category
+
+<div align="center">
 
 ## SKILLS
 
@@ -24,3 +28,5 @@ Cloud Services:                                 AWS (S3, IAM, EC2, RDS)
 | Scripting and Terminal Usage       | Bash Shell scripting                                                               |
 | Workflow Orchestration            | Airflow, SSIS, [AWS Glue](https://aws.amazon.com/glue/), [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/) |
 | Cloud Services                    | AWS (S3, IAM, EC2, RDS)                                                            |
+
+</div>
