@@ -27,6 +27,8 @@ Below is a list of all my certificates in table format. Click each url to see ce
 | Operating System (OS)             | Linux (Fedora, Ubuntu), Windows                                                    |
 | Scripting and Terminal Usage      | Bash Shell scripting                                                               |
 | Workflow Orchestration            | [Airflow](https://www.coursera.org/account/accomplishments/professional-cert/LTM3KJEMDKG6), SSIS, AWS Glue, Azure Data Factory                                                                                                                    |
-| Cloud Services                    | AWS (S3, IAM, EC2, RDS)                                                            |
+| Cloud Services                    | AWS (S3, IAM, EC2, RDS), Azure                                                                                       |
 
 </div>
+
+
