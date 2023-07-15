@@ -1,4 +1,7 @@
-<!-- SKILLS
+```
+start
+
+<!-- SKILLS -->
 
 Databases and Data Warehouses:                  Microsoft SQL Server, Oracle Database, Redshift
 Relational Database Management:                 T-SQL, PL/SQL,
@@ -9,7 +12,6 @@ Operating System (OS):                          Linux (Fedora, Ubuntu), Windows
 Scripting and Terminal Usage:                   Bash Shell scripting
 Workflow Orchestration:                         Airflow, SSIS, AWS Glue, Azure Data Factory
 Cloud Services:                                 AWS (S3, IAM, EC2, RDS)
- -->
 
 <!-- COURSERA: -->
 <!-- coursera data engineer certification -->
@@ -71,7 +73,8 @@ github: https://www.udemy.com/certificate/UC-399625b6-91ba-4e07-be1a-63053967302
 
 <!-- Cloud Services -->
 
-
+end
+```
 
 Below is a list of all my certificates in table format. Click each url to see certificates for each category
 
