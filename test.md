@@ -1,3 +1,1 @@
-[Link Text](https://www.example.com)<span style="position: absolute; background: #fff; border: 1px solid #ccc; padding: 5px; display: none;">https://www.example.com</span>
-
-
+[Link Text](https://www.coursera.org/account/accomplishments/verify/GTTTHXDC8MBU)<span style="position: absolute; background: #fff; border: 1px solid #ccc; padding: 5px; display: none;">https://www.coursera.org/account/accomplishments/verify/GTTTHXDC8MBU</span>
