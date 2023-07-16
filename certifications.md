@@ -77,7 +77,7 @@ github: https://www.udemy.com/certificate/UC-399625b6-91ba-4e07-be1a-63053967302
 
 
 
-Below is a list of all my certificates in table format. Click each url to see certificates for each category
+Below is a list of all my certificates in a tabular format. Click on a link to view the corresponding certificate.
 
 <div align="left">
 
